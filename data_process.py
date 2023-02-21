@@ -9,8 +9,6 @@ automatic_generation = pd.read_csv('alipayseq/automatic_generation.csv')
 
 tokenizer = BertTokenizer.from_pretrained("chinese-roberta-wwm-ext")
 
-wang271k = pd.read_csv('data/train.wang27k.tsv', sep='\t', header=None)
-
 total_train_data = []
 index = 0
 
