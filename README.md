@@ -6,7 +6,7 @@ In this repo, we release AlipaySEQ, a new CSC dataset collected from the Alipay 
 
 Besides, we also introduce SRF, which is a model-agnostic framework to avoid make unconfident midifications.
 
-![image-20230221225014999](/Users/wangyue/Library/Application Support/typora-user-images/image-20230221225014999.png)
+<img src="model.pdf" width="65%">
 
 
 
