@@ -1,4 +1,4 @@
-# BERT
+# BERT+SRF
 
 Pytorch Implementation for BERT, which is modified from https://aclanthology.org/attachments/2022.findings-acl.252.software.zip
 
